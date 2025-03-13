@@ -24,7 +24,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/motion-detector-extension.git
+https://github.com/basantrauniyar15/Motion-Detector-Chrome-Extension
 cd motion-detector-extension
 ```
 
